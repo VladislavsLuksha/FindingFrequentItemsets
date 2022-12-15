@@ -1,4 +1,4 @@
-# FindingFrequentItemsets
+# Finding Frequent Itemsets
 Algorithms for Massive Datasets Project
 
 
